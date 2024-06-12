@@ -6,7 +6,7 @@ Web & game developer
 
 * 🧠  I'm learning about game engines
 * 🤝  I'm open to collaborating on anything pretty much
-* ⚡  I'm working on a ECS game engine in java
+* ⚡  I'm working on a game engine in C++ ([link](https://github.com/DanPeled/WoopWoop2.0-CPP))
 
 ### Skills
 
