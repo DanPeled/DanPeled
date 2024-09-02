@@ -2,10 +2,9 @@ Hi 👋 My name is Dan Peled
 ==========================
 Developer
 --------------------
-
-* 🧠  I'm learning about game engines
-* 🤝  I'm open to collaborating on anything pretty much
-* ⚡  I'm working on a game engine in C++ ([link](https://github.com/DanPeled/WoopWoop2.0-CPP))
+- Part of FRC Team [9738 Ionic Bond](https://github.com/ionicbond-robotics)
+- Making shananigans for FTC & FRC
+- Sometimes making games
 
 ### Skills
 
