@@ -1,7 +1,9 @@
 Hi 👋 My name is Dan Peled
 ==========================
+[![trophy](https://github-profile-trophy.vercel.app/?username=DanPeled&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-Web & game developer
+
+Developer
 --------------------
 
 * 🧠  I'm learning about game engines
