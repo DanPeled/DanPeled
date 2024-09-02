@@ -36,7 +36,6 @@ Developer
 
 <a href="http://www.github.com/DanPeled"><img src="https://github-readme-stats.vercel.app/api?username=DanPeled&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DanPeled's GitHub stats" /></a>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Danpeled&" alt="DanPeled" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DanPeled&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
