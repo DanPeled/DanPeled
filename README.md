@@ -2,7 +2,7 @@ Hi 👋 My name is Dan Peled
 ==========================
 Developer
 --------------------
-- Part of FRC Team [9738 Ionic Bond](https://github.com/ionicbond-robotics)
+- Part of FRC Team [9738 Ionic Bond](https://github.com/ionicbond-9738)
 - Making shananigans for FTC & FRC
 - Sometimes making games
 
