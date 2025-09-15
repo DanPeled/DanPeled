@@ -77,4 +77,8 @@ Developer
   </a>
 </p>
 
+<div style="width:200px; margin:0 auto; background:lightblue;">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanPeled&theme=darcula)
 
+</div>
